@@ -40,6 +40,14 @@
 ![image](A-lineup4.jpg)
 &nbsp;  
 
+![image](attack-A-lineup1.jpg)
+&nbsp;  
+
+&nbsp;  
+### A Site - Ults
+![image](attack-A-ult1.jpg)
+&nbsp;  
+
 
 &nbsp;  
 ### B Site - Orbs
@@ -82,6 +90,11 @@
 &nbsp;  
 ### B Site - Ults (*Retake*)
 ![image](retake-B-ult1.jpg)
+&nbsp;  
+
+&nbsp;  
+### B Site - Orbs
+![image](defense-B-orb1.jpg)
 &nbsp;  
 
 &nbsp;  

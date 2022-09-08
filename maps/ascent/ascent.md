@@ -61,8 +61,16 @@
 &nbsp;  
 
 &nbsp;  
+### B Site - Lineups (*Post-Plant*)
+![image](attack-B-lineup1.jpg)
+&nbsp;  
+
+&nbsp;  
 ### B Site - Ults
 ![image](attack-B-ult1.jpg)
+&nbsp;  
+
+![image](attack-B-ult2.jpg)
 &nbsp;  
 
 
