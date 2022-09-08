@@ -22,6 +22,10 @@
 ![image](attack-B-lineup1.jpg)
 &nbsp;  
 
+### B Site - Linups (*Post-Plant*)
+![image](attack-B-lineup2.jpg)
+&nbsp;  
+
 
 
 &nbsp;  

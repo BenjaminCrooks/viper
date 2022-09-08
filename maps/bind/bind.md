@@ -80,6 +80,11 @@
 &nbsp;  
 
 &nbsp;  
+### B Site - Ults (*Retake*)
+![image](retake-B-ult1.jpg)
+&nbsp;  
+
+&nbsp;  
 ### A Site - Lineups (*Retake*)
 ![image](retake-A1.jpg)
 &nbsp;  
