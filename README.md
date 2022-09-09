@@ -5,19 +5,7 @@ Viper markdown guides
 &nbsp;  
 ## Map Links
 
-### [Ascent](maps/ascent/ascent.md)
-
-### [Bind](maps/bind/bind.md)
-
-### [Breeze](maps/breeze/breeze.md)
-
-### [Fracture](maps/fracture/fracture.md)
-
-### [Haven](maps/haven/haven.md)
-
-### [Icebox](maps/icebox/icebox.md)
-
-### [Pearl](maps/pearl/pearl.md)
+### [Ascent](maps/ascent/ascent.md) · [Bind](maps/bind/bind.md) · [Breeze](maps/breeze/breeze.md) · [Fracture](maps/fracture/fracture.md) · [Haven](maps/haven/haven.md) · [Icebox](maps/icebox/icebox.md) · [Pearl](maps/pearl/pearl.md)
 
 &nbsp;  
 &nbsp;  
