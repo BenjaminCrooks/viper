@@ -1,5 +1,10 @@
 # Viper
-Viper markdown guides
+
+## Misc. Notes
+Defending molly
+- #1 = "just to delay"
+- #2 = if hear/see aggression (Sova drone, Skye dog, Fade dog, flashes, etc)
+
 
 &nbsp;  
 &nbsp;  
