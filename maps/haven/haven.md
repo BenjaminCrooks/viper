@@ -39,6 +39,18 @@
 ![image](attack-B-lineup2.jpg)
 &nbsp;  
 
+### C Site - Orb
+![image](attack-C-orb1.jpg)
+&nbsp;  
+
+### C Site - Orb (*Post-Plant*)
+![image](attack-C-orb2.jpg)
+&nbsp;  
+
+### C Site - Linups (*Post-Plant*)
+![image](attack-C-lineup1.jpg)
+&nbsp;  
+
 
 
 &nbsp;  
@@ -64,4 +76,17 @@
 &nbsp;  
 
 ![image](retake-A2.jpg)
+&nbsp;  
+
+&nbsp;  
+### C Site - Orbs
+![image](defense-C-orb1.jpg)
+&nbsp;  
+
+![image](defense-C-orb2.jpg)
+&nbsp;  
+
+&nbsp;  
+### C Site - Lineups (*Retake*)
+![image](defense-C-lineup1.jpg)
 &nbsp;  

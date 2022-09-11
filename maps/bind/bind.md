@@ -58,6 +58,11 @@
 &nbsp;  
 
 &nbsp;  
+### B Site - Lineups (*Entry*)
+![image](attack-B-entry1.jpg)
+&nbsp;  
+
+&nbsp;  
 ### B Site - Lineups (*Post-Plant*)
 ![image](B-lineup1.jpg)
 &nbsp;  

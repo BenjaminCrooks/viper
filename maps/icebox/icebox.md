@@ -21,3 +21,14 @@
 ### A Site - Lineups (*Post-Plant*)
 ![image](lineup%20A%201.jpg)
 &nbsp;  
+
+
+
+&nbsp;  
+&nbsp;  
+## Defense
+
+&nbsp;  
+### A Site - Lineups (*Retake*)
+![image](defense-A-retake1.jpg)
+&nbsp;  

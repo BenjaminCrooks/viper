@@ -15,6 +15,13 @@
 &nbsp;  
 ### B Site - Orbs
 ![image](attack%20B%20orb%201.jpg)
+
+![image](attack-B-orb2.jpg)
+&nbsp;  
+
+&nbsp;  
+### B Site - Lineups (*Post-Plant*)
+![image](attack-B-lineup1.jpg)
 &nbsp;  
 
 
