@@ -45,3 +45,11 @@
 
 ![image](defense-A-orb3.jpg)
 &nbsp;  
+
+&nbsp;  
+### B Site - Orbs
+![image](defense-B-orb1.jpg)
+&nbsp;  
+
+![image](defense-B-orb2.jpg)
+&nbsp;  
