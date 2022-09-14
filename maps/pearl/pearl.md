@@ -26,7 +26,12 @@
 &nbsp;  
 
 &nbsp;  
-### A Site -A Lineups (*Post-Plant*)
+### A Site - Lineups (*Entry*)
+![image](attack-A-lineup2.jpg)
+&nbsp;  
+
+&nbsp;  
+### A Site - Lineups (*Post-Plant*)
 ![image](attack-A-lineup1.jpg)
 &nbsp;  
 
