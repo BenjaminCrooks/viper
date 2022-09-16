@@ -2,7 +2,7 @@
 
 ## Map Links
 
-### [Ascent](maps/ascent/ascent.md) · [Bind](maps/bind/bind.md) · [Breeze](maps/breeze/breeze.md) · [Fracture](maps/fracture/fracture.md) · [Haven](maps/haven/haven.md) · [Icebox](maps/icebox/icebox.md) · [Pearl](maps/pearl/pearl.md)
+### [Ascent](maps/ascent/ascent.md) &nbsp;&nbsp;·&nbsp;&nbsp; [Bind](maps/bind/bind.md) &nbsp;&nbsp;·&nbsp;&nbsp; [Breeze](maps/breeze/breeze.md) &nbsp;&nbsp;·&nbsp;&nbsp; [Fracture](maps/fracture/fracture.md) &nbsp;&nbsp;·&nbsp;&nbsp; [Haven](maps/haven/haven.md) &nbsp;&nbsp;·&nbsp;&nbsp; [Icebox](maps/icebox/icebox.md) &nbsp;&nbsp;·&nbsp;&nbsp; [Pearl](maps/pearl/pearl.md)
 
 &nbsp;  
 &nbsp;  
@@ -55,6 +55,8 @@ Toxic Orb
 
 Snake Bite + Toxic Orb TTK = 4 sec
 ```
+
+*"Trade your teammates, thats what you do as a Viper main"*
 
 Defending molly
 - #1 = "just to delay"
