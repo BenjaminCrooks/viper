@@ -26,9 +26,6 @@
 ![image](attack-A-lineup4.jpg)
 &nbsp;  
 
-![image](attack-A-lineup4.jpg)
-&nbsp;  
-
 ![image](attack-A-lineup5.jpg)
 &nbsp;  
 
@@ -57,6 +54,14 @@
 &nbsp;  
 ### Walls
 ![image](defense-walls.jpg)
+&nbsp;  
+
+&nbsp;  
+### A Site - Orbs
+![image](defense-A-orb1.jpg)
+&nbsp;  
+
+![image](defense-A-orb2.jpg)
 &nbsp;  
 
 &nbsp;  

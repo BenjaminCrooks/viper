@@ -31,9 +31,6 @@
 ![image](A-lineup1.jpg)
 &nbsp;  
 
-![image](A-lineup2.jpg)
-&nbsp;  
-
 ![image](A-lineup3.jpg)
 &nbsp;  
 
@@ -47,6 +44,9 @@
 &nbsp;  
 
 ![image](attack-A-lineup3.jpg)
+&nbsp;  
+
+![image](A-lineup2.jpg)
 &nbsp;  
 
 &nbsp;  
@@ -88,6 +88,20 @@
 &nbsp;  
 ### A Site - Orbs
 ![image](defense-A-orb1.jpg)
+&nbsp;  
+
+&nbsp;  
+### A Site - Anti-Plant
+![image](defense-A-anti1.jpg)
+&nbsp;  
+
+![image](defense-A-anti2.jpg)
+&nbsp;  
+
+![image](defense-A-anti3.jpg)
+&nbsp;  
+
+![image](defense-A-anti4.jpg)
 &nbsp;  
 
 &nbsp;  

@@ -33,6 +33,9 @@
 
 &nbsp;  
 ### A Site - Lineups (*Post-Plant*)
+![image](attack-A-lineup1.jpg)
+&nbsp;  
+
 ![image](attack-A-molly2.jpg)
 &nbsp;  
 
@@ -63,6 +66,12 @@
 &nbsp;  
 ### B Site - Lineups (*Post-Plant*)
 ![image](attack-B-lineup1.jpg)
+&nbsp;  
+
+![image](attack-B-lineup2.jpg)
+&nbsp;  
+
+![image](attack-B-lineup3.jpg)
 &nbsp;  
 
 &nbsp;  
