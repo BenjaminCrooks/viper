@@ -1,5 +1,7 @@
 # Viper
 
+**Lineups done with "Med" graphics quality for all 4 options** 
+
 ## Map Links
 
 ### [Ascent](maps/ascent/ascent.md) &nbsp;&nbsp;·&nbsp;&nbsp; [Bind](maps/bind/bind.md) &nbsp;&nbsp;·&nbsp;&nbsp; [Breeze](maps/breeze/breeze.md) &nbsp;&nbsp;·&nbsp;&nbsp; [Fracture](maps/fracture/fracture.md) &nbsp;&nbsp;·&nbsp;&nbsp; [Haven](maps/haven/haven.md) &nbsp;&nbsp;·&nbsp;&nbsp; [Icebox](maps/icebox/icebox.md) &nbsp;&nbsp;·&nbsp;&nbsp; [Pearl](maps/pearl/pearl.md)
