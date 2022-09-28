@@ -25,9 +25,8 @@
 &nbsp;  
 ### A Site - Lineups (*Post-Plant*)
 ![image](attack-A-lineup1.jpg)
-&nbsp;  
-
-![image](lineup%20A%201.jpg)
+**Location placement is more important than cursor placement**
+**Better to have wall aimed above rafters (so wall is ontop of box)**
 &nbsp;  
 
 &nbsp;  
